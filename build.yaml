@@ -23,4 +23,5 @@ include:
     shield: clover_left
   - board: nice_nano_v2
     shield: clover_right
-  
+  - board: nice_nano_v2
+    shield: settings_reset
