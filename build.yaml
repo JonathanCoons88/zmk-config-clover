@@ -20,8 +20,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: clover_left
   - board: nice_nano_v2
-    shield: corne_right
-  - board: nice_nano_v2
-    shield: settings_reset
+    shield: clover_right
+  
